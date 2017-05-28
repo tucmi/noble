@@ -1,3 +1,7 @@
+## Version 1.8.1.2
+
+ * connection parameters optimized for usage with TI SensorTag (responsivness and energy usage), customized TI SensorTag firmware might be needed
+
 ## Version 1.8.1
 
  * easier install instructions for Windows ([@don](https://github.com/don))
